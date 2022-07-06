@@ -1,6 +1,5 @@
 <img align="right" height="511em" src="https://raw.githubusercontent.com/gist/J3ipy/15e97e32c09716bc32c405505bf5ad55/raw/262e8061ed9cfd6de11cddcc2256d588b02e2f73/githubcard.svg"/>
 <h1 align="left">🇺🇸 Hi, I'm João Pedro, programming and design content creator!</h1>
-<h1 align="left">🇧🇷 Oi, eu sou João Pedro, criador de conteúdo de Programação e Design!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=J3ipy&color=blue" alt="Profiles views" /> </p>
 
 - 🔥 Beginning web developer
