@@ -31,8 +31,8 @@
  ## ⚙️ GitHub Analytics
   <div align="left">
   <a href="https://github.com/J3ipy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J3ipy&show_icons=true&theme=vision-friendly-dark" alt="J3ipy's stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3ipy&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="J3ipy's stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=J3ipy&show_icons=true&theme=vision-friendly-dark" alt="J3ipy's stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3ipy&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="J3ipy's stats"/>
     
  <br><br>
  ## 📲 Social Links   
