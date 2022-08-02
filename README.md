@@ -1,4 +1,14 @@
-<img align="right" height="511em" src="https://raw.githubusercontent.com/gist/J3ipy/15e97e32c09716bc32c405505bf5ad55/raw/262e8061ed9cfd6de11cddcc2256d588b02e2f73/githubcard.svg"/>
+```javascript
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+}
+
+let J3ipy = new dev('João Pedro', 17, 'Front-end developer and Designer');
+console.log(J3ipy);
+```
+
 <h1 align="left">Hi, I'm João Pedro, programming and design content creator!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=J3ipy&color=blue" alt="Profiles views" /> </p>
 
@@ -36,9 +46,9 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
  ## ⚙️ GitHub Analytics
   <div align="left">
   <a href="https://github.com/J3ipy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3ipy&show_icons=true&theme=vision-friendly-dark" alt="J3ipy's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3ipy&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="J3ipy's stats"/>
-    <p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=J3ipy&&theme=vision-friendly-dark" alt="J3ipy´s stats" /></p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J3ipy&show_icons=true&theme=vision-friendly-dark" alt="J3ipy's stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3ipy&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="J3ipy's stats"/>
+    <p><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=J3ipy&&theme=vision-friendly-dark" alt="J3ipy´s stats" /></p>
     
  <br><br>
  ## 📲 Social Links   
