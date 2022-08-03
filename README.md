@@ -8,17 +8,21 @@ function dev(name, age, work) {
 let J3ipy = new dev('João Pedro', 17, 'Front-end developer and Designer');
 console.log(J3ipy);
 ```
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=J3ipy&color=blue" alt="Profiles views" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Nice+to+meet+you!💝&center=true&size=30">
+  </a>
+</h1>
 
-<h1 align="left">Hi, I'm João Pedro, programming and design content creator!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=J3ipy&color=blue" alt="Profiles views" /> </p>
 
-- 🔥 Beginning web developer
+- 🔥 Beginning Front-end developer
 
 - 🔭 I’m currently looking for work!
 
 - 📫 How to reach me **designerjp05@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, C#, Photoshop, Ilustrator, Figma**
+- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator**
 
 <br><br>
 
@@ -29,7 +33,6 @@ console.log(J3ipy);
   <img align="center" alt="JP-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="JP-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JP-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JP-Dotnet" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="JP - HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" alt="JP - CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 </div>
