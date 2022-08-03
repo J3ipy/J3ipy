@@ -1,19 +1,37 @@
-```javascript
-function dev(name, age, work) {
-        this.name = name;
-        this.age = age;
-        this.work = work;
-}
-
-let J3ipy = new dev('João Pedro', 17, 'Front-end developer and Designer');
-console.log(J3ipy);
-```
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=J3ipy&color=blue" alt="Profiles views" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Nice+to+meet+you!💝&center=true&size=30">
   </a>
 </h1>
+
+
+``` js
+const j3ipy = {
+    personal: {
+        fullName: 'João Pedro',
+        birthDate: '2005-02-19',
+        pronouns: 'he' | 'his',
+        interests: ['music', 'games', 'language learning', 'anime'],
+        motivation: [
+            'Make the difference in my area',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['ReactJS'],
+                HTML: ['HTML5'],
+                CSS: ['Bootstrap', 'CSS3'],
+            },
+            Design: {
+                Figma:[],
+                Photoshop:[],
+                Ilustrator:[],
+            },
+      }
+}
+```
 
 
 - 🔥 Beginning Front-end developer
