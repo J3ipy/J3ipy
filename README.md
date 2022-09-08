@@ -20,7 +20,7 @@ const j3ipy = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['ReactJS'],
+                Javascript: ['ReactJS', 'React Native'],
                 HTML: ['HTML5'],
                 CSS: ['Bootstrap', 'CSS3'],
             },
