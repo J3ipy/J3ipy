@@ -74,7 +74,10 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3ipy&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="J3ipy's stats"/>
     <p><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=J3ipy&&theme=vision-friendly-dark" alt="J3ipy´s stats" /></p>
     
- <br><br>
+    
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=J3ipy&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+    
  ## 📲 Social Links   
    <div> 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro079/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jp" height="30" width="40" /></a>
