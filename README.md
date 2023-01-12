@@ -69,9 +69,6 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
  <br><br>  
  ## ⚙️ GitHub Analytics
   <div align="left">
-  <a href="https://github.com/J3ipy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J3ipy&show_icons=true&theme=vision-friendly-dark" alt="J3ipy's stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3ipy&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="J3ipy's stats"/>
     <p><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=J3ipy&&theme=vision-friendly-dark" alt="J3ipy´s stats" /></p>
     
     
@@ -80,7 +77,7 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
     
  ## 📲 Social Links   
    <div> 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro079/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/j3ipy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jp" height="30" width="40" /></a>
 <a href="https://instagram.com/pedro.ssantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp" height="30" width="40" /></a>
  
     
