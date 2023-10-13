@@ -1,10 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Nice+to+meet+you!💝&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 - 🔥 Junior Developer
+
+- 💻 I am currently interested in the field of cybersecurity too
 
 - 🔭 I’m currently looking for work!
 
@@ -18,7 +20,6 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="JP-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="JP-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="JP - HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" alt="JP - CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
