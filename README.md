@@ -35,7 +35,12 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <div>
 
   
- <br><br>  
+ <br><br> 
+
+ ## 🛡️ My Badges
+<a href="https://www.credly.com/badges/a921d0ea-834f-475f-b9b8-84ba702ceefb/public_url" target="blank">
+<img src="https://github.com/J3ipy/J3ipy/assets/97753966/467197c1-0f5f-4f45-b2bb-d81c3fb45e18 /">
+</a>
     
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J3ipy&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
