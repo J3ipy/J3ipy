@@ -20,6 +20,7 @@
 
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
   <img align="center" alt="JP-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="JP - HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" alt="JP - CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
@@ -41,10 +42,7 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <a href="https://www.credly.com/badges/a921d0ea-834f-475f-b9b8-84ba702ceefb/public_url" target="blank">
 <img src="https://github.com/J3ipy/J3ipy/assets/97753966/467197c1-0f5f-4f45-b2bb-d81c3fb45e18 /">
 </a>
-    
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=J3ipy&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-    
+  
  ## 📲 Social Links   
    <div> 
 <a href="https://www.linkedin.com/in/j3ipy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jp" height="30" width="40" /></a>
