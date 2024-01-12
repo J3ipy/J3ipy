@@ -6,13 +6,13 @@
 
 - 🔥 Junior Developer
 
-- 💻 I am currently interested in the field of cybersecurity too
+- 💻 I am currently interested in the field of computer vision too
 
 - 🔭 I’m currently looking for work!
 
 - 📫 How to reach me **designerjp05@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator**
+- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator, Kinect, C#**
 
 <br><br>
 
@@ -39,9 +39,15 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
  <br><br> 
 
  ## 🛡️ My Badges
-<a href="https://www.credly.com/badges/a921d0ea-834f-475f-b9b8-84ba702ceefb/public_url" target="blank">
+ <div display="flex">
+   <a href="https://www.credly.com/badges/a921d0ea-834f-475f-b9b8-84ba702ceefb/public_url" target="blank">
 <img src="https://github.com/J3ipy/J3ipy/assets/97753966/467197c1-0f5f-4f45-b2bb-d81c3fb45e18 /">
 </a>
+
+<a href="https://credentials.databricks.com/4480121a-c14a-493d-bad8-58ac9fd5f681#gs.2yxrmo" target="blank">
+  <img src="https://templates.images.credential.net/16859822715825555912981627624259.png" width="150" style="margin: 20px;">
+</a>
+ </div>
   
  ## 📲 Social Links   
    <div> 
