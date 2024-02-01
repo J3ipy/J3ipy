@@ -4,15 +4,12 @@
   </a>
 </h1>
 
-- 🔥 Junior Developer
-
-- 💻 I am currently interested in the field of computer vision too
 
 - 🔭 I’m currently looking for work!
 
 - 📫 How to reach me **designerjp05@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator, Kinect, C#**
+- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator, C#**
 
 <br><br>
 
