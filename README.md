@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **designerjp05@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator, C#**
+- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator, Java**
 
 <br><br>
 
