@@ -1,17 +1,8 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J3ipy&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J3ipy&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J3ipy&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-
-- 🔭 I’m currently looking for work!
-
-- 📫 How to reach me **designerjp05@gmail.com**
-
-- 💬 Ask me about **HTML, CSS, Photoshop, Ilustrator, Java**
-
-<br><br>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J3ipy&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=J3ipy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 ## 🛠 Tech Stacks
 
@@ -44,10 +35,4 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 </a>
  </div>
   
- ## 📲 Social Links   
-   <div> 
-<a href="https://www.linkedin.com/in/j3ipy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jp" height="30" width="40" /></a>
-<a href="https://instagram.com/pedro.ssantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp" height="30" width="40" /></a>
- 
-    
 <div>
