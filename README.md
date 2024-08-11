@@ -35,5 +35,9 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   <img src="https://templates.images.credential.net/16859822715825555912981627624259.png" width="150" style="margin: 20px;">
 </a>
  </div>
-  
+ <br>
+ 
+  **#30NitesOfCode:**
+  [Check out my progress!](https://www.codedex.io/@j3ipy/30-nites-of-code)  
+  ![@j3ipy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=j3ipy)
 <div>
