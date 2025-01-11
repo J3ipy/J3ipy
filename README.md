@@ -10,17 +10,13 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg">
-  <img align="center" alt="JP - HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-  <img align="center" alt="JP - CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-  <img align="center" alt="JP - JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
+  <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original.svg">
+   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/keras/keras-original.svg">
+   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matlab/matlab-original.svg">
+   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg">
+   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ros/ros-original-wordmark.svg">
 </div>
-<div style="display: inline_block"><br>
- <img align="center" alt="JP- Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="JP- Ilustrator" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg">   
-  <img align="center" alt="JP- Figma" height="40" width="40" 
-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-<div>
-<div>
 
   
  <br><br> 
@@ -35,9 +31,4 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   <img src="https://templates.images.credential.net/16859822715825555912981627624259.png" width="150" style="margin: 20px;">
 </a>
  </div>
- <br>
- 
-  **#30NitesOfCode:**
-  [Check out my progress!](https://www.codedex.io/@j3ipy/30-nites-of-code)  
-  ![@j3ipy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=j3ipy)
-<div>
+
